@@ -9,3 +9,4 @@
 # Try it with the sample data
 
 Built with Claude Code during the KKU Claude Code hackathon
+Started on 2026-09-28
